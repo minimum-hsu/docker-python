@@ -1,8 +1,7 @@
-#!/bin/sh
+#!/bin/bash
 
 set -o pipefail
 set -e
-set -x
 
 if [[ -f '/workspace/requirements.txt' ]]
 then
