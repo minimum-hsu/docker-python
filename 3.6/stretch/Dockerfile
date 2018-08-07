@@ -1,4 +1,4 @@
-FROM python:3.6-strech
+FROM python:3.6-stretch
 
 LABEL maintainer Minimum (s5550055@yahoo.com.tw)
 
